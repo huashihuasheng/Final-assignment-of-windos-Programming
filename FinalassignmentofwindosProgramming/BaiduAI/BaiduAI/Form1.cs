@@ -38,9 +38,9 @@ namespace BaiduAI
          * 注意：在实际生产环境中，这些敏感信息应通过配置文件或环境变量管理，
          * 避免硬编码在源代码中，防止密钥泄露风险。
          */
-        private string APP_ID = "6944914";  // 百度AI开放平台的应用ID
-        private string API_KEY = "AczsKUZ3pa4P16gV8Dn8A2ny";  // API访问密钥
-        private string SECRET_KEY = "2QQe4ZAUdGGeoB78onqw5EN0qaT3xvNY";  // 安全密钥
+        private string APP_ID = "6946089";  // 百度AI开放平台的应用ID
+        private string API_KEY = "gFrSOXkxkwIuaA556YnAxpqs";  // API访问密钥
+        private string SECRET_KEY = "7t8EpdYeuO2g9F1y53DUh6vhtEpMaSGI";  // 安全密钥
 
         /*
          * 百度AI SDK客户端实例
